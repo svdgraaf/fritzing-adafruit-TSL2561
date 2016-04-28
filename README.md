@@ -3,7 +3,7 @@ I needed this part for a board I was developing, and couldn't find the part, so 
 The part is the [TSL2561 Digital Luminosity/Lux/Light Sensor Breakout](https://www.adafruit.com/products/439). Do note that the PCB silkscreen doesn't have rounded corners. A PR is always welcome :)
 
 ## Usage
-1. Download the part as [zipfile](https://github.com/svdgraaf/fritzing-TSL2561/archive/master.zip)
+1. Download the part as [zipfile](https://github.com/svdgraaf/fritzing-adafruit-TSL2561/archive/master.zip)
 1. Open Fritzing
 2. Go to 'Mine' in your parts libary
 3. Right click -> import
@@ -14,4 +14,4 @@ The part is the [TSL2561 Digital Luminosity/Lux/Light Sensor Breakout](https://w
 
 
 ## Example
-![Amplifier](https://raw.githubusercontent.com/svdgraaf/fritzing-adafruit-electret-amplifier/master/adafruit-1713.png)
+![Amplifier](https://raw.githubusercontent.com/svdgraaf/fritzing-adafruit-TSL2561/master/adafruit-439.png)
